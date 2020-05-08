@@ -47,16 +47,6 @@ module.exports={
       },
       _itemStat:[],
       //
-      getOutputItemList(){
-        return this._outputItemList;
-      },
-      _outputItemList:[],
-      //
-      getOutputLiquidList(){
-        return this._outputLiquidList
-      },
-      _outputLiquidList:[],
-      //
       config(){
         return this._toggle;
       },
